@@ -1,4 +1,4 @@
-### Hi there 👋
+## Shin Hyungsik
 
 <!--
 **shs9509/SHS9509** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Shin Hyungsik
+
+## 지금까지 진행해온 프로젝트 😙
+
+### pjt_Name_card
+📇 https://shs9509.github.io/pjt_Name_card/
+
+### pjt_book_review_site
+📖 http://hyungsik.pythonanywhere.com/
+
+### pjt_MeMovie
+🎥 https://github.com/shs9509/pjt_MeMovie
+
+
+--------
+📫 How to reach me: ssej09072@naver.com
