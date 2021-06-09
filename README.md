@@ -1,4 +1,4 @@
-## Shin Hyungsik
+
 
 <!--
 **shs9509/SHS9509** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,9 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 진행하고 있는 프로젝트 🍭
 
 
-## 지금까지 진행해온 프로젝트 😙
+
+## 진행했던 프로젝트 🧭
 
 ### pjt_Name_card
 📇 https://shs9509.github.io/pjt_Name_card/
