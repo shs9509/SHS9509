@@ -20,14 +20,27 @@ Here are some ideas to get you started:
 
 ## 진행했던 프로젝트 🧭
 
-### pjt_Name_card
+<table>
+  <tr>
+    <th>### pjt_Name_card</th>
+    <th>### pjt_book_review_site</th>
+    <th>### pjt_MeMovie</th>
+  </tr>
+  <tr>
+    <td>https://shs9509.github.io/pjt_Name_card/</td>
+    <td>http://hyungsik.pythonanywhere.com/</td>
+    <td>https://github.com/shs9509/pjt_MeMovie</td>
+  </tr>
+</table>
+
+<!-- ### pjt_Name_card
 📇 https://shs9509.github.io/pjt_Name_card/
 
 ### pjt_book_review_site
 📖 http://hyungsik.pythonanywhere.com/
 
 ### pjt_MeMovie
-🎥 https://github.com/shs9509/pjt_MeMovie
+🎥 https://github.com/shs9509/pjt_MeMovie -->
 
 
 --------
