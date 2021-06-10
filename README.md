@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 
 <table>
   <tr>
-    <th>### pjt_Name_card</th>
-    <th>### pjt_book_review_site</th>
-    <th>### pjt_MeMovie</th>
+    <th>pjt_Name_card</th>
+    <th>pjt_book_review_site</th>
+    <th>pjt_MeMovie</th>
   </tr>
   <tr>
     <td>https://shs9509.github.io/pjt_Name_card/</td>
