@@ -16,10 +16,6 @@ Here are some ideas to get you started:
 -->
 ## 진행하고 있는 프로젝트 🍭
 
-![명함](https://user-images.githubusercontent.com/77470435/121489862-75867b80-ca0f-11eb-8173-6b2b14068ecc.png)
-![미무비](https://user-images.githubusercontent.com/77470435/121489865-76b7a880-ca0f-11eb-933b-b6d36c77ec60.png)
-![책리뷰](https://user-images.githubusercontent.com/77470435/121489914-82a36a80-ca0f-11eb-9c19-b5d5d67df29b.png)
-
 
 ## 진행했던 프로젝트 🧭 (click!)
 
@@ -30,9 +26,14 @@ Here are some ideas to get you started:
     <th>pjt_MeMovie</th>
   </tr>
   <tr>
-    <td>![명함](https://user-images.githubusercontent.com/77470435/121490456-fc3b5880-ca0f-11eb-8379-3cb639911f80.png)(https://shs9509.github.io/pjt_Name_card/)</td>
-    <td>![책리뷰](https://user-images.githubusercontent.com/77470435/121490487-065d5700-ca10-11eb-81e1-c429332847ac.png)(http://hyungsik.pythonanywhere.com/)</td>
-    <td>![미무비](https://user-images.githubusercontent.com/77470435/121490498-0b220b00-ca10-11eb-8224-f7fbedf17a4c.png)(https://github.com/shs9509/pjt_MeMovie)</td>
+    <td>![명함](https://user-images.githubusercontent.com/77470435/121489862-75867b80-ca0f-11eb-8173-6b2b14068ecc.png)</td>
+    <td>![책리뷰](https://user-images.githubusercontent.com/77470435/121489914-82a36a80-ca0f-11eb-9c19-b5d5d67df29b.png)</td>
+    <td>![미무비](https://user-images.githubusercontent.com/77470435/121489865-76b7a880-ca0f-11eb-933b-b6d36c77ec60.png)</td>
+  </tr>
+  <tr>
+    <td>https://shs9509.github.io/pjt_Name_card/</td>
+    <td>http://hyungsik.pythonanywhere.com/</td>
+    <td>https://github.com/shs9509/pjt_MeMovie</td>
   </tr>
 </table>
 
