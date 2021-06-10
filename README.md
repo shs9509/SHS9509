@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 |pjt_Name_card|pjt_book_review_site|pjt_MeMovie|
 |:---:|:---:|:---:|
-|[![명함](https://user-images.githubusercontent.com/77470435/121489862-75867b80-ca0f-11eb-8173-6b2b14068ecc.png)](https://shs9509.github.io/pjt_Name_card/)|[![책리뷰](https://user-images.githubusercontent.com/77470435/121489914-82a36a80-ca0f-11eb-9c19-b5d5d67df29b.png)](http://hyungsik.pythonanywhere.com/)|[![미무비](https://user-images.githubusercontent.com/77470435/121489865-76b7a880-ca0f-11eb-933b-b6d36c77ec60.png)](https://github.com/shs9509/pjt_MeMovie)|
+|[![명함](https://user-images.githubusercontent.com/77470435/121489862-75867b80-ca0f-11eb-8173-6b2b14068ecc.png)](https://shs9509.github.io/pjt_Name_card/)|[![책리뷰](https://user-images.githubusercontent.com/77470435/121493040-635a0c80-ca12-11eb-929b-9c3f4bfa9a99.png)](http://hyungsik.pythonanywhere.com/)|[![미무비](https://user-images.githubusercontent.com/77470435/121489865-76b7a880-ca0f-11eb-933b-b6d36c77ec60.png)](https://github.com/shs9509/pjt_MeMovie)|
 
 
 <!-- ### pjt_Name_card
