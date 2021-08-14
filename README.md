@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ## 진행하고 있는 프로젝트 🍭
 
-#pjt_Promise_SNS
+# pjt_Promise_SNS
 
 ## 진행했던 프로젝트 🧭 (click!)
 
