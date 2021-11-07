@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ## 진행하고 있는 프로젝트 🍭
 
-빅데이터 기반 추천페이지 
+AI 면접 "쓰앵뷰"
 
 ## 진행했던 프로젝트 🧭 (click!)
 
