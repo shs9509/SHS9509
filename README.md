@@ -159,20 +159,20 @@
 
 ## Awards & Licenses
 
-###🏆 Award
+### 🏆 Award
 
 - 삼성 청년 SW 아카데미 자율프로젝트 결선 발표회 우수상 ( 2021.11.30 )
 
 - 삼성 청년 SW 아카데미 자율프로젝트 우수상 (1등) ( 2021.11.26 )
 - 삼성 청년 SW 아카데미 공통프로젝트 우수상 (2등) ( 2021.08.20 )
 
-###🎫 Licenses
+### 🎫 Licenses
 
 - 정보처리기사 (2021.06)
 
 
 
-##🚴‍♂️ Activity
+## 🚴‍♂️ Activity
 
 - 삼성청년소프트웨어아카데미(SSAFY) 5기 (2021.01 ~ 2021.12)
 
@@ -182,12 +182,10 @@
 
 -----------
 
-<h3><center>Enable Teck Stack🏹</center><h3/>
+<h3><center>🏹Enable Teck Stack</center><h3/>
 
 
 <center><img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/><img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></center>
-
 <center><img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/><img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/></center>
-  
 <center><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/><img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></center>
 
