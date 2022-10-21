@@ -10,8 +10,6 @@
 
 ## 😁Introduce
 
-- 이름
-  - 신형식
 - email
   - ssej09072@naver.com
 - 이력
